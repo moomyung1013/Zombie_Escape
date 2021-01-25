@@ -1,2 +1,2 @@
-# Zombie_Escape
-Zombie Escape
+# Zombie_Escape_Game
+Zombie Escape Game
