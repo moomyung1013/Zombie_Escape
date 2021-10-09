@@ -1,4 +1,6 @@
 # Zombie_Escape_Game
+[설명블로그](https://velog.io/@moomyung1013/Unity-%EC%A2%80%EB%B9%84-%ED%83%88%EC%B6%9C-%EA%B2%8C%EC%9E%84)
+
 Zombie Escape Game
 <게임 플레이 방법>   
 ZombieEscape.exe 파일을 클릭해 프로그램을 실행 한다.   
